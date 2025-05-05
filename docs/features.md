@@ -1,7 +1,7 @@
-> Initial version of the dictionary, do not use yet. A lot of info is yet to be fact-checked
-
+> ## Initial version of the dictionary, do not use yet. **Experimental**
 > This dictionary is meant for easy access of all columns present in SINASC DN
-> For more details on each variable, visit [[In Depth - SINASC Docs|In Depth]]
+> For more details on each variable and the original database, visit [OpenDataSUS](https://diaad.s3.sa-east-1.amazonaws.com/sinasc/SINASC+-+Estrutura.pdf)'s docs.
+
 # **Mother**
 ``CODOCUPMAE`` : Código CBO 2002 de ocupação da mãe
 ``DTULTMENST`` : Data da última menstruação, no formato ``ddmmaaaa``
